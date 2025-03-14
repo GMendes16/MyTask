@@ -40,7 +40,7 @@ Siga os passos abaixo para configurar e rodar o aplicativo em sua máquina local
 
 1. Clone este repositório:
    ```bash
-   git clone https://
+   git clone https://github.com/GMendes16/MyTask.git
 2. Acesse o diretório do projeto:
    ```bash
    cd App MyTask
