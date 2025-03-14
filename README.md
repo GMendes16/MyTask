@@ -2,9 +2,13 @@
 
 **MyTask** é um aplicativo simples e intuitivo para gerenciar suas tarefas diárias, desenvolvido com React Native e Expo. Ele permite que você adicione, edite e exclua suas tarefas de forma fácil e rápida, garantindo uma experiência prática de organização.
 
-
 <img src="https://github.com/user-attachments/assets/f4c30c91-cf99-4853-b245-47c59e3d0065" alt="ScreenShot 1" width="200" />
-<img src="https://github.com/user-attachments/assets/bd326a9d-8cef-42bf-9116-5662df958ed0" alt="ScreenShot 1" width="200"/>
+<img src="https://github.com/user-attachments/assets/bd326a9d-8cef-42bf-9116-5662df958ed0" alt="ScreenShot 1" width="208"/>
+<img src="https://github.com/user-attachments/assets/5fdd51da-8c24-42e2-b89c-41bc29947364" alt="ScreenShot 1" width="216"/>
+<img src="https://github.com/user-attachments/assets/3e8895d7-7a08-4715-b080-94ff385a085b" alt="ScreenShot 1" width="208"/>
+
+
+
 
 
 ## Funcionalidades
