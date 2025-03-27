@@ -51,4 +51,5 @@ Siga os passos abaixo para configurar e rodar o aplicativo em sua máquina local
 ## Autor
 
 Este projeto foi criado por Gabriel Mendes.
-Para dúvidas, sugestões ou qualquer outra informação, entre em contato através do e-mail: gabrielmendes16180.com.
+Para dúvidas, sugestões ou qualquer outra informação, entre em contato através do e-mail: Gabrielmendes16180@gmail.com
+
